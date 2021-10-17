@@ -68,9 +68,9 @@ destination node - (1, 2)
 output- [(1, 0), (0, 0), (0, 1), (0, 2), (1, 2)]
 
 # Instructions for running the code:
-1.download the code.
-2.Run the TCPServer first.
-3.Enter any key.
-4.Run the client (can be multiple).
-5.Follow the menu at the program.
-6.Enter "stop" at the server to stop the TCP server.
+1.download the code.  
+2.Run the TCPServer first.  
+3.Enter any key.  
+4.Run the client (can be multiple).  
+5.Follow the menu at the program.  
+6.Enter "stop" at the server to stop the TCP server.  
