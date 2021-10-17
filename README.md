@@ -6,7 +6,7 @@ A server that handles algorithmic operations depending on the type of task he wa
 The various operations and client care may be carried out in concurrently.
 
 # Four algorithmic tasks:
-1.Find the strong connected components including diagonals (concurrently):
+# 1.Find the strong connected components including diagonals (concurrently):
 input: 2D array of int
 output: A list of SCC sort by the size of single SCC.
 example:
